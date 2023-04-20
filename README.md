@@ -13,4 +13,8 @@ helpful resources.
 Exposure: Android studio, JAVA
 
 # Prototype
+![prototype](./media/assets/prototype1.png)
+![prototype](./media/assets/prototype3.png)
 
+![prototype](./media/assets/prototype4.png)
+![prototype](./media/assets/prototype2.png)
